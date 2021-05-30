@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Flags</string>
+    <string name="buttonNext">Next</string>
+    <string name="guess_country">Guess Country</string>
+    <string name="submit_btn">Submit</string>
+    <string name="next_btn">Next</string>
+    <string name="cName">TextView</string>
+    <string name="pick_flag_for_countryTV">Pick flag for country</string>
+    <string name="guess_countrytv">Guess Country :</string>
+    <string name="guess_charactertv">Guess Character -</string>
+    <string name="submitbutton">Submit</string>
+    <string name="flag_01">Flag 01 :</string>
+    <string name="country_flag_01">country for flag 01</string>
+    <string name="flag_02">Flag 02 :</string>
+    <string name="country_flag_02">country for flag 02</string>
+    <string name="flag_03">Flag 03 :</string>
+    <string name="country3">country for flag 03</string>
+    <string name="sub_btn">Submit</string>
+    <string name="N_btn">Next</string>
+    <string name="guess_the_countrybtn">Guess the Country</string>
+    <string name="guess_hintbtn">Guess-Hint</string>
+    <string name="guess_the_flag">Guess the flag</string>
+    <string name="advanced_level">Advanced Level</string>
+    <string name="nextHint">Next</string>
+
+
+</resources>
